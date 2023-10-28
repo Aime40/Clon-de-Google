@@ -53,9 +53,9 @@ header nav{
         }
         /*Separación enre google y la barra de busqueda*/
         .main-logo{
-            width: 530;
+            width: 500;
             margin: 0 auto;
-            margin-bottom: 35px;
+            margin-bottom: 40px;
         }
         .main-input{
         width: 530px;
@@ -113,7 +113,7 @@ header nav{
         }
         .main-button button{
         border: none;
-        height: 36px; 
+        height: 10px; 
         background-color: #f8f9fa;
         font-size: 14px;
         color: #3c4043;
@@ -127,25 +127,25 @@ header nav{
         cursor: pointer;
         }  
         footer{
-        background-color: #f2f2f2;
+        background-color: #d6d4d4;
         width: 100%;
-        height: 5%;
+        height: 10%;
         position: absolute;
         font-size: 13px;
         display: grid;
         grid-template-columns: 1fr 1fr;
         align-items: center;
-        border-top: 1px solid #e4e4e4;
-        bottom: 2%;
-        /*Me mueve lo ancho de la somra gris*/
+        border-top: 1px solid #d8cbcb;
+        bottom: 1px;
         padding: 55px;
-        }  
+        /*Me mueve lo ancho de la somra gris*/
+          }
         .footer-location{
             border-bottom: 1px solid #dadce0;
-            color: #70757a;
+            color: #49545f;
         }
         .footer-left{
-            justify-content: left;
+            justify-content:left;
         } 
         .footer-right{
             justify-content: right;
