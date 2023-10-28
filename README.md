@@ -16,5 +16,5 @@ Contenido del proyecto
 3. Footer
    Incluye hipervínculis al final de la página
 
-   Reliado por Aimé Pérez❤👍
+   Relizado por Aimé Pérez❤👍
    
